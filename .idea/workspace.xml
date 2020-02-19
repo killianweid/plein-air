@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8029de1c-d288-4947-8df4-5f07c1440565" name="Default" comment="" />
+    <list default="true" id="8029de1c-d288-4947-8df4-5f07c1440565" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/actualites.html" beforeDir="false" afterPath="$PROJECT_DIR$/actualites.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/films.html" beforeDir="false" afterPath="$PROJECT_DIR$/films.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/preinscription.html" beforeDir="false" afterPath="$PROJECT_DIR$/preinscription.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,14 +21,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpServers">
     <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="Remote PHP 5.6" />
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
-  </component>
   <component name="ProjectId" id="1Xw7XkBVLpIpNNA5KBMqeLIZacS" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -51,6 +56,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="js.buildTools.grunt.grunt-cli.package" value="" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="" />
@@ -114,6 +120,7 @@
       <workItem from="1576499757049" duration="3643000" />
       <workItem from="1580409208543" duration="1229000" />
       <workItem from="1581945350432" duration="527000" />
+      <workItem from="1582150068725" duration="313000" />
     </task>
     <servers />
   </component>
@@ -125,6 +132,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1581945626109" />
+    <state x="368" y="61" width="703" height="777" key="find.popup" timestamp="1582150136650">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="368" y="61" width="703" height="777" key="find.popup/0.0.1440.900/1440.86.1280.720@0.0.1440.900" timestamp="1582150136650" />
   </component>
   <component name="masterDetails">
     <states>
